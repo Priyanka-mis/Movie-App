@@ -11,8 +11,6 @@ fetch("./data.json")
   })
   .then(data => {
     console.log(data);
-   
-  
     function displayMovies(movies){
       moviesContainer.innerHTML = "";
 
