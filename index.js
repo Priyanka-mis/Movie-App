@@ -29,7 +29,6 @@ fetch("./data.json")
         movieTitle.textContent = movie.title
 
         const movieGenre = document.createElement ('p')
-        // movieGenre.classList.add('movie-genre');
         movieGenre.textContent = `${movie.year} | ${movie.genre} `;
 
         const movieRating = document.createElement('p')
@@ -41,11 +40,8 @@ fetch("./data.json")
         movieBox.appendChild(movieTitle)
         movieBox.appendChild(movieGenre)
         movieBox.appendChild(movieRating)
-
         moviesContainer.appendChild(movieBox)
-  
       })
-
     }
 
     displayMovies(data);
