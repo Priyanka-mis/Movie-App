@@ -1,0 +1,91 @@
+[
+    
+    {
+      "id": 1,
+      "title": "Inceptioan",
+      "year": 2010,
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "rating": 8.8,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsmuRWhpQUaroS9cXKCHasPggGrWMM7SSUw&s"
+    
+    },
+
+  
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": ["Adventure", "Drama", "Sci-Fi"],
+      "rating": 8.6,
+      "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/297acd129204217.616629e21fe76.png"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": ["Action", "Crime", "Drama"],
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": ["Action", "Sci-Fi"],
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w500/tWqifoYuwLETmmasnGHO7xBjEtt.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Titanic",
+      "year": 1997,
+      "genre": ["Drama", "Romance"],
+      "rating": 7.9,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46OESrRD_6_8x0Zh49-1vkKY0yC4QWzMWjw&s"
+    },
+    {
+      "id": 7,
+      "title": "Joker",
+      "year": 2019,
+      "genre": ["Crime", "Drama", "Thriller"],
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "genre": ["Drama", "Romance"],
+      "rating": 8.8,
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpNj2ZMSunTHdEqSfL8Ds9voU9E9Z7vzd2w&s"
+    },
+    {
+      "id": 9,
+      "title": "Gladiator",
+      "year": 2000,
+      "genre": ["Action", "Drama"],
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": ["Drama"],
+      "rating": 9.3,
+      "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+    }
+  ]
+  
+  
+  
+  
+  
